@@ -167,5 +167,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# VsCode
+.vscode/
 # PyPI configuration file
 .pypirc
